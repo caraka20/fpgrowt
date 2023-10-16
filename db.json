@@ -1,0 +1,2044 @@
+{
+  "transaksi": [
+    {
+      "No": 1,
+      "Tahun/Bulan": "2022/12",
+      "Produk": "Samsung A03 CORE",
+      "Jumlah": 1,
+      "Harga": 1199000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 1
+    },
+    {
+      "No": 2,
+      "Tahun/Bulan": "2022/12",
+      "Produk": "Samsung A04E",
+      "Jumlah": 8,
+      "Harga": 1299000,
+      "Earphone": 7,
+      "Charger": 0,
+      "Case": 8
+    },
+    {
+      "No": 3,
+      "Tahun/Bulan": "2022/12",
+      "Produk": "Samsung A04",
+      "Jumlah": 3,
+      "Harga": 1699000,
+      "Earphone": 1,
+      "Charger": 0,
+      "Case": 3
+    },
+    {
+      "No": 4,
+      "Tahun/Bulan": "2022/12",
+      "Produk": "Samsung A04S",
+      "Jumlah": 3,
+      "Harga": 1999000,
+      "Earphone": 1,
+      "Charger": 0,
+      "Case": 3
+    },
+    {
+      "No": 5,
+      "Tahun/Bulan": "2022/12",
+      "Produk": "Samsung A23 5G",
+      "Jumlah": 1,
+      "Harga": 3999000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 1
+    },
+    {
+      "No": 6,
+      "Tahun/Bulan": "2022/12",
+      "Produk": "Samsung A33",
+      "Jumlah": 1,
+      "Harga": 4799000,
+      "Earphone": 0,
+      "Charger": 1,
+      "Case": 1
+    },
+    {
+      "No": 7,
+      "Tahun/Bulan": "2023/1",
+      "Produk": "Samsung A04E",
+      "Jumlah": 12,
+      "Harga": 1299000,
+      "Earphone": 7,
+      "Charger": 0,
+      "Case": 12
+    },
+    {
+      "No": 8,
+      "Tahun/Bulan": "2023/1",
+      "Produk": "Samsung A04",
+      "Jumlah": 4,
+      "Harga": 1699000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 4
+    },
+    {
+      "No": 9,
+      "Tahun/Bulan": "2023/1",
+      "Produk": "Samsung A04S",
+      "Jumlah": 3,
+      "Harga": 1999000,
+      "Earphone": 1,
+      "Charger": 0,
+      "Case": 3
+    },
+    {
+      "No": 10,
+      "Tahun/Bulan": "2023/1",
+      "Produk": "Samsung A13",
+      "Jumlah": 1,
+      "Harga": 2699000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 1
+    },
+    {
+      "No": 11,
+      "Tahun/Bulan": "2023/1",
+      "Produk": "Samsung A23 ",
+      "Jumlah": 1,
+      "Harga": 3299000,
+      "Earphone": 1,
+      "Charger": 0,
+      "Case": 1
+    },
+    {
+      "No": 12,
+      "Tahun/Bulan": "2023/1",
+      "Produk": "Samsung A73",
+      "Jumlah": 1,
+      "Harga": 7799000,
+      "Earphone": 1,
+      "Charger": 1,
+      "Case": 2
+    },
+    {
+      "No": 13,
+      "Tahun/Bulan": "2023/1",
+      "Produk": "Vivo Y21 4/64",
+      "Jumlah": 2,
+      "Harga": 2099000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 0
+    },
+    {
+      "No": 14,
+      "Tahun/Bulan": "2023/1",
+      "Produk": "Vivo Y35 8/128",
+      "Jumlah": 1,
+      "Harga": 3399000,
+      "Earphone": 1,
+      "Charger": 0,
+      "Case": 0
+    },
+    {
+      "No": 15,
+      "Tahun/Bulan": "2023/1",
+      "Produk": "Vivo Y22 4/64",
+      "Jumlah": 3,
+      "Harga": 2299000,
+      "Earphone": 2,
+      "Charger": 0,
+      "Case": 1
+    },
+    {
+      "No": 16,
+      "Tahun/Bulan": "2023/1",
+      "Produk": "Vivo Y22 6/128",
+      "Jumlah": 4,
+      "Harga": 2999000,
+      "Earphone": 4,
+      "Charger": 0,
+      "Case": 2
+    },
+    {
+      "No": 17,
+      "Tahun/Bulan": "2023/1",
+      "Produk": "Vivo V25E 8/128",
+      "Jumlah": 1,
+      "Harga": 3999000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 0
+    },
+    {
+      "No": 18,
+      "Tahun/Bulan": "2023/1",
+      "Produk": "Vivo Y02",
+      "Jumlah": 2,
+      "Harga": 1499000,
+      "Earphone": 1,
+      "Charger": 0,
+      "Case": 0
+    },
+    {
+      "No": 19,
+      "Tahun/Bulan": "2023/2",
+      "Produk": "Samsung A03 CORE",
+      "Jumlah": 1,
+      "Harga": 1199000,
+      "Earphone": 1,
+      "Charger": 0,
+      "Case": 1
+    },
+    {
+      "No": 20,
+      "Tahun/Bulan": "2023/2",
+      "Produk": "Samsung A04E",
+      "Jumlah": 11,
+      "Harga": 1299000,
+      "Earphone": 6,
+      "Charger": 0,
+      "Case": 11
+    },
+    {
+      "No": 21,
+      "Tahun/Bulan": "2023/2",
+      "Produk": "Samsung A04",
+      "Jumlah": 3,
+      "Harga": 1699000,
+      "Earphone": 2,
+      "Charger": 0,
+      "Case": 3
+    },
+    {
+      "No": 22,
+      "Tahun/Bulan": "2023/2",
+      "Produk": "Samsung A04S",
+      "Jumlah": 1,
+      "Harga": 1999000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 1
+    },
+    {
+      "No": 23,
+      "Tahun/Bulan": "2023/2",
+      "Produk": "Samsung A13",
+      "Jumlah": 2,
+      "Harga": 2699000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 2
+    },
+    {
+      "No": 24,
+      "Tahun/Bulan": "2023/2",
+      "Produk": "Samsung A14 5G",
+      "Jumlah": 2,
+      "Harga": 2999000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 2
+    },
+    {
+      "No": 25,
+      "Tahun/Bulan": "2023/2",
+      "Produk": "Samsung A33",
+      "Jumlah": 1,
+      "Harga": 5299000,
+      "Earphone": 1,
+      "Charger": 1,
+      "Case": 1
+    },
+    {
+      "No": 26,
+      "Tahun/Bulan": "2023/2",
+      "Produk": "Vivo Y21 4/64",
+      "Jumlah": 2,
+      "Harga": 2099000,
+      "Earphone": 2,
+      "Charger": 0,
+      "Case": 2
+    },
+    {
+      "No": 27,
+      "Tahun/Bulan": "2023/2",
+      "Produk": "Vivo Y22 4/64",
+      "Jumlah": 3,
+      "Harga": 2299000,
+      "Earphone": 2,
+      "Charger": 0,
+      "Case": 3
+    },
+    {
+      "No": 28,
+      "Tahun/Bulan": "2023/2",
+      "Produk": "Vivo Y22 6/128",
+      "Jumlah": 2,
+      "Harga": 2999000,
+      "Earphone": 2,
+      "Charger": 0,
+      "Case": 2
+    },
+    {
+      "No": 29,
+      "Tahun/Bulan": "2023/2",
+      "Produk": "Vivo Y02 3/32",
+      "Jumlah": 2,
+      "Harga": 1499000,
+      "Earphone": 1,
+      "Charger": 0,
+      "Case": 2
+    },
+    {
+      "No": 30,
+      "Tahun/Bulan": "2023/3",
+      "Produk": "Samsung A03 CORE",
+      "Jumlah": 1,
+      "Harga": 1199000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 1
+    },
+    {
+      "No": 31,
+      "Tahun/Bulan": "2023/3",
+      "Produk": "Samsung A04E",
+      "Jumlah": 12,
+      "Harga": 1299000,
+      "Earphone": 10,
+      "Charger": 0,
+      "Case": 12
+    },
+    {
+      "No": 32,
+      "Tahun/Bulan": "2023/3",
+      "Produk": "Samsung A04",
+      "Jumlah": 1,
+      "Harga": 1699000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 1
+    },
+    {
+      "No": 33,
+      "Tahun/Bulan": "2023/3",
+      "Produk": "Samsung A04S",
+      "Jumlah": 1,
+      "Harga": 1999000,
+      "Earphone": 1,
+      "Charger": 0,
+      "Case": 1
+    },
+    {
+      "No": 34,
+      "Tahun/Bulan": "2023/3",
+      "Produk": "Samsung A13",
+      "Jumlah": 2,
+      "Harga": 2699000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 1
+    },
+    {
+      "No": 35,
+      "Tahun/Bulan": "2023/3",
+      "Produk": "Samsung A14 ",
+      "Jumlah": 2,
+      "Harga": 2699000,
+      "Earphone": 1,
+      "Charger": 0,
+      "Case": 1
+    },
+    {
+      "No": 36,
+      "Tahun/Bulan": "2023/3",
+      "Produk": "Samsung A23",
+      "Jumlah": 1,
+      "Harga": 3299000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 1
+    },
+    {
+      "No": 37,
+      "Tahun/Bulan": "2023/3",
+      "Produk": "Samsung A23 5G",
+      "Jumlah": 1,
+      "Harga": 3999000,
+      "Earphone": 1,
+      "Charger": 0,
+      "Case": 1
+    },
+    {
+      "No": 38,
+      "Tahun/Bulan": "2023/3",
+      "Produk": "Samsung A34",
+      "Jumlah": 1,
+      "Harga": 4999000,
+      "Earphone": 1,
+      "Charger": 1,
+      "Case": 1
+    },
+    {
+      "No": 39,
+      "Tahun/Bulan": "2023/3",
+      "Produk": "Vivo Y16 4/64",
+      "Jumlah": 1,
+      "Harga": 1899000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 0
+    },
+    {
+      "No": 40,
+      "Tahun/Bulan": "2023/3",
+      "Produk": "Vivo Y22 6/128",
+      "Jumlah": 1,
+      "Harga": 2999000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 0
+    },
+    {
+      "No": 41,
+      "Tahun/Bulan": "2023/3",
+      "Produk": "Vivo Y02 3/32",
+      "Jumlah": 1,
+      "Harga": 1499000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 0
+    },
+    {
+      "No": 42,
+      "Tahun/Bulan": "2023/4",
+      "Produk": "Samsung A04E 3/32",
+      "Jumlah": 3,
+      "Harga": 1299000,
+      "Earphone": 2,
+      "Charger": 0,
+      "Case": 2
+    },
+    {
+      "No": 43,
+      "Tahun/Bulan": "2023/4",
+      "Produk": "Samsung A04 3/32",
+      "Jumlah": 2,
+      "Harga": 1499000,
+      "Earphone": 1,
+      "Charger": 0,
+      "Case": 1
+    },
+    {
+      "No": 44,
+      "Tahun/Bulan": "2023/4",
+      "Produk": "Samsung A04 4/64",
+      "Jumlah": 4,
+      "Harga": 1799000,
+      "Earphone": 2,
+      "Charger": 0,
+      "Case": 4
+    },
+    {
+      "No": 45,
+      "Tahun/Bulan": "2023/4",
+      "Produk": "Samsung A13 4/64",
+      "Jumlah": 1,
+      "Harga": 2199000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 1
+    },
+    {
+      "No": 46,
+      "Tahun/Bulan": "2023/4",
+      "Produk": "Samsung A13 6/128",
+      "Jumlah": 1,
+      "Harga": 2499000,
+      "Earphone": 1,
+      "Charger": 0,
+      "Case": 1
+    },
+    {
+      "No": 47,
+      "Tahun/Bulan": "2023/4",
+      "Produk": "Samsung A14 4/128",
+      "Jumlah": 2,
+      "Harga": 2399000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 2
+    },
+    {
+      "No": 48,
+      "Tahun/Bulan": "2023/4",
+      "Produk": "Samsung A14 6/128",
+      "Jumlah": 3,
+      "Harga": 2699000,
+      "Earphone": 1,
+      "Charger": 0,
+      "Case": 1
+    },
+    {
+      "No": 49,
+      "Tahun/Bulan": "2023/4",
+      "Produk": "Samsung A14 5G",
+      "Jumlah": 2,
+      "Harga": 2899000,
+      "Earphone": 1,
+      "Charger": 0,
+      "Case": 1
+    },
+    {
+      "No": 50,
+      "Tahun/Bulan": "2023/4",
+      "Produk": "Samsung A23 6/128",
+      "Jumlah": 1,
+      "Harga": 3299000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 2
+    },
+    {
+      "No": 51,
+      "Tahun/Bulan": "2023/4",
+      "Produk": "Samsung A23 5G",
+      "Jumlah": 4,
+      "Harga": 3999000,
+      "Earphone": 4,
+      "Charger": 0,
+      "Case": 3
+    },
+    {
+      "No": 52,
+      "Tahun/Bulan": "2023/4",
+      "Produk": "Samsung A34 5G 8/128",
+      "Jumlah": 2,
+      "Harga": 4999000,
+      "Earphone": 1,
+      "Charger": 2,
+      "Case": 1
+    },
+    {
+      "No": 53,
+      "Tahun/Bulan": "2023/4",
+      "Produk": "Samsung A34 5G 8/256",
+      "Jumlah": 1,
+      "Harga": 5399000,
+      "Earphone": 0,
+      "Charger": 1,
+      "Case": 2
+    },
+    {
+      "No": 54,
+      "Tahun/Bulan": "2023/4",
+      "Produk": "Samsung A54 5G 8/128",
+      "Jumlah": 5,
+      "Harga": 5999000,
+      "Earphone": 5,
+      "Charger": 5,
+      "Case": 5
+    },
+    {
+      "No": 55,
+      "Tahun/Bulan": "2023/4",
+      "Produk": "Samsung A54 5G 8/256",
+      "Jumlah": 4,
+      "Harga": 6399000,
+      "Earphone": 3,
+      "Charger": 4,
+      "Case": 4
+    },
+    {
+      "No": 56,
+      "Tahun/Bulan": "2023/4",
+      "Produk": "Samsung A73 5G 8/256",
+      "Jumlah": 1,
+      "Harga": 7799000,
+      "Earphone": 1,
+      "Charger": 1,
+      "Case": 1
+    },
+    {
+      "No": 57,
+      "Tahun/Bulan": "2023/4",
+      "Produk": "Vivo Y02",
+      "Jumlah": 3,
+      "Harga": 1499000,
+      "Earphone": 1,
+      "Charger": 0,
+      "Case": 1
+    },
+    {
+      "No": 58,
+      "Tahun/Bulan": "2023/4",
+      "Produk": "Vivo Y15S",
+      "Jumlah": 1,
+      "Harga": 1499000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 1
+    },
+    {
+      "No": 59,
+      "Tahun/Bulan": "2023/4",
+      "Produk": "Vivo Y21 4/64",
+      "Jumlah": 1,
+      "Harga": 1899000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 1
+    },
+    {
+      "No": 60,
+      "Tahun/Bulan": "2023/4",
+      "Produk": "Vivo Y21S 4/128",
+      "Jumlah": 2,
+      "Harga": 1999000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 2
+    },
+    {
+      "No": 61,
+      "Tahun/Bulan": "2023/4",
+      "Produk": "Vivo Y22",
+      "Jumlah": 4,
+      "Harga": 2999000,
+      "Earphone": 3,
+      "Charger": 0,
+      "Case": 4
+    },
+    {
+      "No": 62,
+      "Tahun/Bulan": "2023/4",
+      "Produk": "Vivo Y35 8/128",
+      "Jumlah": 2,
+      "Harga": 3399000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 1
+    },
+    {
+      "No": 63,
+      "Tahun/Bulan": "2023/4",
+      "Produk": "Oppo A16E 3/32",
+      "Jumlah": 3,
+      "Harga": 1499000,
+      "Earphone": 1,
+      "Charger": 0,
+      "Case": 2
+    },
+    {
+      "No": 64,
+      "Tahun/Bulan": "2023/4",
+      "Produk": "Oppo A16K 4/64",
+      "Jumlah": 1,
+      "Harga": 2199000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 0
+    },
+    {
+      "No": 65,
+      "Tahun/Bulan": "2023/4",
+      "Produk": "Oppo A17 4/64",
+      "Jumlah": 1,
+      "Harga": 2099000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 0
+    },
+    {
+      "No": 66,
+      "Tahun/Bulan": "2023/4",
+      "Produk": "Oppo A53",
+      "Jumlah": 1,
+      "Harga": 2499000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 1
+    },
+    {
+      "No": 67,
+      "Tahun/Bulan": "2023/4",
+      "Produk": "Oppo A77S",
+      "Jumlah": 1,
+      "Harga": 3499000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 1
+    },
+    {
+      "No": 68,
+      "Tahun/Bulan": "2023/4",
+      "Produk": "Oppo A96",
+      "Jumlah": 1,
+      "Harga": 4299000,
+      "Earphone": 1,
+      "Charger": 0,
+      "Case": 1
+    },
+    {
+      "No": 69,
+      "Tahun/Bulan": "2023/4",
+      "Produk": "Oppo RENO 8",
+      "Jumlah": 1,
+      "Harga": 4999000,
+      "Earphone": 1,
+      "Charger": 0,
+      "Case": 1
+    },
+    {
+      "No": 70,
+      "Tahun/Bulan": "2023/4",
+      "Produk": "Xiaomi Redmi A1 3/32",
+      "Jumlah": 2,
+      "Harga": 1149000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 2
+    },
+    {
+      "No": 71,
+      "Tahun/Bulan": "2023/4",
+      "Produk": "Xiaomi Redmi 9A 3/32",
+      "Jumlah": 3,
+      "Harga": 1249000,
+      "Earphone": 2,
+      "Charger": 0,
+      "Case": 3
+    },
+    {
+      "No": 72,
+      "Tahun/Bulan": "2023/4",
+      "Produk": "Xiaomi Redmi 10A 3/32",
+      "Jumlah": 2,
+      "Harga": 1369000,
+      "Earphone": 1,
+      "Charger": 0,
+      "Case": 2
+    },
+    {
+      "No": 73,
+      "Tahun/Bulan": "2023/4",
+      "Produk": "Xiaomi Redmi 10A 4/64",
+      "Jumlah": 2,
+      "Harga": 1699000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 2
+    },
+    {
+      "No": 74,
+      "Tahun/Bulan": "2023/4",
+      "Produk": "Xiaomi Redmi 10C 4/64",
+      "Jumlah": 1,
+      "Harga": 1769000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 1
+    },
+    {
+      "No": 75,
+      "Tahun/Bulan": "2023/4",
+      "Produk": "Xiaomi Redmi 10C 4/128",
+      "Jumlah": 3,
+      "Harga": 1969000,
+      "Earphone": 3,
+      "Charger": 0,
+      "Case": 3
+    },
+    {
+      "No": 76,
+      "Tahun/Bulan": "2023/4",
+      "Produk": "Xiaomi Redmi Note 11 4/128",
+      "Jumlah": 1,
+      "Harga": 2349000,
+      "Earphone": 1,
+      "Charger": 0,
+      "Case": 1
+    },
+    {
+      "No": 77,
+      "Tahun/Bulan": "2023/4",
+      "Produk": "Xiaomi Redmi Note 10 5G 4/128",
+      "Jumlah": 2,
+      "Harga": 2499000,
+      "Earphone": 2,
+      "Charger": 0,
+      "Case": 2
+    },
+    {
+      "No": 78,
+      "Tahun/Bulan": "2023/4",
+      "Produk": "Xiaomi Redmi Note 11 6/128",
+      "Jumlah": 4,
+      "Harga": 2649000,
+      "Earphone": 2,
+      "Charger": 0,
+      "Case": 4
+    },
+    {
+      "No": 79,
+      "Tahun/Bulan": "2023/4",
+      "Produk": "Realme C30",
+      "Jumlah": 2,
+      "Harga": 1199000,
+      "Earphone": 3,
+      "Charger": 0,
+      "Case": 2
+    },
+    {
+      "No": 80,
+      "Tahun/Bulan": "2023/4",
+      "Produk": "Realme C30S 3/32",
+      "Jumlah": 3,
+      "Harga": 1399000,
+      "Earphone": 3,
+      "Charger": 0,
+      "Case": 3
+    },
+    {
+      "No": 81,
+      "Tahun/Bulan": "2023/4",
+      "Produk": "Realme C30S 4/64",
+      "Jumlah": 5,
+      "Harga": 1599000,
+      "Earphone": 2,
+      "Charger": 0,
+      "Case": 5
+    },
+    {
+      "No": 82,
+      "Tahun/Bulan": "2023/4",
+      "Produk": "Realme C25Y",
+      "Jumlah": 1,
+      "Harga": 2099000,
+      "Earphone": 1,
+      "Charger": 0,
+      "Case": 1
+    },
+    {
+      "No": 83,
+      "Tahun/Bulan": "2023/4",
+      "Produk": "Realme C35",
+      "Jumlah": 2,
+      "Harga": 2499000,
+      "Earphone": 2,
+      "Charger": 0,
+      "Case": 2
+    },
+    {
+      "No": 84,
+      "Tahun/Bulan": "2023/4",
+      "Produk": "Realme C55 6/128",
+      "Jumlah": 3,
+      "Harga": 2499000,
+      "Earphone": 2,
+      "Charger": 0,
+      "Case": 3
+    },
+    {
+      "No": 85,
+      "Tahun/Bulan": "2023/4",
+      "Produk": "Realme Realme 10 8/128",
+      "Jumlah": 3,
+      "Harga": 3199000,
+      "Earphone": 3,
+      "Charger": 0,
+      "Case": 3
+    },
+    {
+      "No": 86,
+      "Tahun/Bulan": "2023/4",
+      "Produk": "Realme Realme 10 8/256",
+      "Jumlah": 2,
+      "Harga": 3599000,
+      "Earphone": 2,
+      "Charger": 0,
+      "Case": 2
+    },
+    {
+      "No": 87,
+      "Tahun/Bulan": "2023/4",
+      "Produk": "Infinix Note 12 2023",
+      "Jumlah": 3,
+      "Harga": 2799000,
+      "Earphone": 1,
+      "Charger": 0,
+      "Case": 0
+    },
+    {
+      "No": 88,
+      "Tahun/Bulan": "2023/4",
+      "Produk": "Infinix Hot 20S",
+      "Jumlah": 3,
+      "Harga": 2499000,
+      "Earphone": 1,
+      "Charger": 0,
+      "Case": 0
+    },
+    {
+      "No": 89,
+      "Tahun/Bulan": "2023/4",
+      "Produk": "Infinix Hot 12 Play",
+      "Jumlah": 2,
+      "Harga": 1698000,
+      "Earphone": 2,
+      "Charger": 0,
+      "Case": 0
+    },
+    {
+      "No": 90,
+      "Tahun/Bulan": "2023/4",
+      "Produk": "Infinix Hot 20i",
+      "Jumlah": 1,
+      "Harga": 1499000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 0
+    },
+    {
+      "No": 91,
+      "Tahun/Bulan": "2023/4",
+      "Produk": "Infinix Smart 6",
+      "Jumlah": 4,
+      "Harga": 1199000,
+      "Earphone": 3,
+      "Charger": 0,
+      "Case": 0
+    },
+    {
+      "No": 92,
+      "Tahun/Bulan": "2023/5",
+      "Produk": "Samsung A04E 3/32",
+      "Jumlah": 2,
+      "Harga": 1299000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 2
+    },
+    {
+      "No": 93,
+      "Tahun/Bulan": "2023/5",
+      "Produk": "Samsung A04 3/32",
+      "Jumlah": 1,
+      "Harga": 1499000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 1
+    },
+    {
+      "No": 94,
+      "Tahun/Bulan": "2023/5",
+      "Produk": "Samsung A04 4/64",
+      "Jumlah": 2,
+      "Harga": 1799000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 2
+    },
+    {
+      "No": 95,
+      "Tahun/Bulan": "2023/5",
+      "Produk": "Samsung A13 4/64",
+      "Jumlah": 1,
+      "Harga": 2199000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 1
+    },
+    {
+      "No": 96,
+      "Tahun/Bulan": "2023/5",
+      "Produk": "Samsung A13 6/128",
+      "Jumlah": 3,
+      "Harga": 2499000,
+      "Earphone": 2,
+      "Charger": 0,
+      "Case": 3
+    },
+    {
+      "No": 97,
+      "Tahun/Bulan": "2023/5",
+      "Produk": "Samsung A14 4/128",
+      "Jumlah": 1,
+      "Harga": 2399000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 1
+    },
+    {
+      "No": 98,
+      "Tahun/Bulan": "2023/5",
+      "Produk": "Samsung A14 6/128",
+      "Jumlah": 3,
+      "Harga": 2699000,
+      "Earphone": 3,
+      "Charger": 0,
+      "Case": 3
+    },
+    {
+      "No": 99,
+      "Tahun/Bulan": "2023/5",
+      "Produk": "Samsung A14 5G",
+      "Jumlah": 1,
+      "Harga": 2899000,
+      "Earphone": 1,
+      "Charger": 0,
+      "Case": 1
+    },
+    {
+      "No": 100,
+      "Tahun/Bulan": "2023/5",
+      "Produk": "Samsung A23 6/128",
+      "Jumlah": 1,
+      "Harga": 3299000,
+      "Earphone": 1,
+      "Charger": 0,
+      "Case": 1
+    },
+    {
+      "No": 101,
+      "Tahun/Bulan": "2023/5",
+      "Produk": "Samsung A23 5G",
+      "Jumlah": 2,
+      "Harga": 3999000,
+      "Earphone": 2,
+      "Charger": 0,
+      "Case": 2
+    },
+    {
+      "No": 102,
+      "Tahun/Bulan": "2023/5",
+      "Produk": "Samsung A34 5G 8/128",
+      "Jumlah": 1,
+      "Harga": 4999000,
+      "Earphone": 0,
+      "Charger": 1,
+      "Case": 1
+    },
+    {
+      "No": 103,
+      "Tahun/Bulan": "2023/5",
+      "Produk": "Samsung A34 5G 8/256",
+      "Jumlah": 1,
+      "Harga": 5399000,
+      "Earphone": 0,
+      "Charger": 1,
+      "Case": 1
+    },
+    {
+      "No": 104,
+      "Tahun/Bulan": "2023/5",
+      "Produk": "Samsung A54 5G 8/128",
+      "Jumlah": 2,
+      "Harga": 5999000,
+      "Earphone": 1,
+      "Charger": 2,
+      "Case": 2
+    },
+    {
+      "No": 105,
+      "Tahun/Bulan": "2023/5",
+      "Produk": "Samsung A54 5G 8/256",
+      "Jumlah": 1,
+      "Harga": 6399000,
+      "Earphone": 0,
+      "Charger": 1,
+      "Case": 1
+    },
+    {
+      "No": 106,
+      "Tahun/Bulan": "2023/5",
+      "Produk": "Samsung A73 5G 8/256",
+      "Jumlah": 3,
+      "Harga": 7799000,
+      "Earphone": 3,
+      "Charger": 3,
+      "Case": 3
+    },
+    {
+      "No": 107,
+      "Tahun/Bulan": "2023/5",
+      "Produk": "Vivo Y02",
+      "Jumlah": 1,
+      "Harga": 1499000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 1
+    },
+    {
+      "No": 108,
+      "Tahun/Bulan": "2023/5",
+      "Produk": "Vivo Y15S",
+      "Jumlah": 1,
+      "Harga": 1899000,
+      "Earphone": 1,
+      "Charger": 0,
+      "Case": 1
+    },
+    {
+      "No": 109,
+      "Tahun/Bulan": "2023/5",
+      "Produk": "Vivo Y21 4/64",
+      "Jumlah": 2,
+      "Harga": 2099000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 2
+    },
+    {
+      "No": 110,
+      "Tahun/Bulan": "2023/5",
+      "Produk": "Vivo Y21S 4/128",
+      "Jumlah": 2,
+      "Harga": 1945000,
+      "Earphone": 2,
+      "Charger": 0,
+      "Case": 2
+    },
+    {
+      "No": 111,
+      "Tahun/Bulan": "2023/5",
+      "Produk": "Vivo Y22",
+      "Jumlah": 1,
+      "Harga": 1399000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 1
+    },
+    {
+      "No": 112,
+      "Tahun/Bulan": "2023/5",
+      "Produk": "Vivo Y35 8/128",
+      "Jumlah": 3,
+      "Harga": 3399000,
+      "Earphone": 2,
+      "Charger": 0,
+      "Case": 2
+    },
+    {
+      "No": 113,
+      "Tahun/Bulan": "2023/5",
+      "Produk": "Vivo V25E 8/128",
+      "Jumlah": 1,
+      "Harga": 3999000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 1
+    },
+    {
+      "No": 114,
+      "Tahun/Bulan": "2023/5",
+      "Produk": "Vivo V27 5G",
+      "Jumlah": 6,
+      "Harga": 5999000,
+      "Earphone": 6,
+      "Charger": 0,
+      "Case": 6
+    },
+    {
+      "No": 115,
+      "Tahun/Bulan": "2023/5",
+      "Produk": "Vivo V27E",
+      "Jumlah": 2,
+      "Harga": 4299000,
+      "Earphone": 1,
+      "Charger": 0,
+      "Case": 2
+    },
+    {
+      "No": 116,
+      "Tahun/Bulan": "2023/5",
+      "Produk": "Oppo A16E 3/32",
+      "Jumlah": 1,
+      "Harga": 1499000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 1
+    },
+    {
+      "No": 117,
+      "Tahun/Bulan": "2023/5",
+      "Produk": "Oppo A16K 4/64",
+      "Jumlah": 2,
+      "Harga": 2199000,
+      "Earphone": 1,
+      "Charger": 0,
+      "Case": 2
+    },
+    {
+      "No": 118,
+      "Tahun/Bulan": "2023/5",
+      "Produk": "Oppo A17 4/64",
+      "Jumlah": 2,
+      "Harga": 2099000,
+      "Earphone": 2,
+      "Charger": 0,
+      "Case": 2
+    },
+    {
+      "No": 119,
+      "Tahun/Bulan": "2023/5",
+      "Produk": "Oppo A53",
+      "Jumlah": 1,
+      "Harga": 2499000,
+      "Earphone": 1,
+      "Charger": 0,
+      "Case": 1
+    },
+    {
+      "No": 120,
+      "Tahun/Bulan": "2023/5",
+      "Produk": "Oppo A77S",
+      "Jumlah": 2,
+      "Harga": 3499000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 2
+    },
+    {
+      "No": 121,
+      "Tahun/Bulan": "2023/5",
+      "Produk": "Oppo A96",
+      "Jumlah": 3,
+      "Harga": 4299000,
+      "Earphone": 3,
+      "Charger": 0,
+      "Case": 3
+    },
+    {
+      "No": 122,
+      "Tahun/Bulan": "2023/5",
+      "Produk": "Oppo RENO 8",
+      "Jumlah": 2,
+      "Harga": 4999000,
+      "Earphone": 1,
+      "Charger": 0,
+      "Case": 2
+    },
+    {
+      "No": 123,
+      "Tahun/Bulan": "2023/5",
+      "Produk": "Xiaomi Redmi A1 3/32",
+      "Jumlah": 1,
+      "Harga": 1149000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 1
+    },
+    {
+      "No": 124,
+      "Tahun/Bulan": "2023/5",
+      "Produk": "Xiaomi Redmi 9A 3/32",
+      "Jumlah": 2,
+      "Harga": 1249000,
+      "Earphone": 2,
+      "Charger": 0,
+      "Case": 2
+    },
+    {
+      "No": 125,
+      "Tahun/Bulan": "2023/5",
+      "Produk": "Xiaomi Redmi 10A 3/32",
+      "Jumlah": 2,
+      "Harga": 1369000,
+      "Earphone": 2,
+      "Charger": 0,
+      "Case": 2
+    },
+    {
+      "No": 126,
+      "Tahun/Bulan": "2023/5",
+      "Produk": "Xiaomi Redmi 10A 4/64",
+      "Jumlah": 1,
+      "Harga": 1699000,
+      "Earphone": 1,
+      "Charger": 0,
+      "Case": 1
+    },
+    {
+      "No": 127,
+      "Tahun/Bulan": "2023/5",
+      "Produk": "Xiaomi Redmi 10C 4/64",
+      "Jumlah": 2,
+      "Harga": 1769000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 2
+    },
+    {
+      "No": 128,
+      "Tahun/Bulan": "2023/5",
+      "Produk": "Xiaomi Redmi 10C 4/128",
+      "Jumlah": 2,
+      "Harga": 1969000,
+      "Earphone": 1,
+      "Charger": 0,
+      "Case": 2
+    },
+    {
+      "No": 129,
+      "Tahun/Bulan": "2023/5",
+      "Produk": "Xiaomi Redmi Note 11 4/128",
+      "Jumlah": 1,
+      "Harga": 2349000,
+      "Earphone": 1,
+      "Charger": 0,
+      "Case": 1
+    },
+    {
+      "No": 130,
+      "Tahun/Bulan": "2023/5",
+      "Produk": "Xiaomi Redmi Note 10 5G 4/128",
+      "Jumlah": 1,
+      "Harga": 2499000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 1
+    },
+    {
+      "No": 131,
+      "Tahun/Bulan": "2023/5",
+      "Produk": "Xiaomi Redmi Note 11 6/128",
+      "Jumlah": 2,
+      "Harga": 2649000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 2
+    },
+    {
+      "No": 132,
+      "Tahun/Bulan": "2023/5",
+      "Produk": "Xiaomi 12 Lite",
+      "Jumlah": 1,
+      "Harga": 5599000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 0
+    },
+    {
+      "No": 133,
+      "Tahun/Bulan": "2023/5",
+      "Produk": "Realme C30",
+      "Jumlah": 1,
+      "Harga": 1199000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 1
+    },
+    {
+      "No": 134,
+      "Tahun/Bulan": "2023/5",
+      "Produk": "Realme C30S 3/32",
+      "Jumlah": 2,
+      "Harga": 1399000,
+      "Earphone": 2,
+      "Charger": 0,
+      "Case": 2
+    },
+    {
+      "No": 135,
+      "Tahun/Bulan": "2023/5",
+      "Produk": "Realme C30S 4/64",
+      "Jumlah": 2,
+      "Harga": 1599000,
+      "Earphone": 2,
+      "Charger": 0,
+      "Case": 2
+    },
+    {
+      "No": 136,
+      "Tahun/Bulan": "2023/5",
+      "Produk": "Realme C25Y",
+      "Jumlah": 3,
+      "Harga": 2099000,
+      "Earphone": 2,
+      "Charger": 0,
+      "Case": 3
+    },
+    {
+      "No": 137,
+      "Tahun/Bulan": "2023/5",
+      "Produk": "Realme C35",
+      "Jumlah": 2,
+      "Harga": 2499000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 2
+    },
+    {
+      "No": 138,
+      "Tahun/Bulan": "2023/5",
+      "Produk": "Realme C55 6/128",
+      "Jumlah": 3,
+      "Harga": 2499000,
+      "Earphone": 1,
+      "Charger": 0,
+      "Case": 3
+    },
+    {
+      "No": 139,
+      "Tahun/Bulan": "2023/5",
+      "Produk": "Realme Realme 10 8/128",
+      "Jumlah": 3,
+      "Harga": 3199000,
+      "Earphone": 3,
+      "Charger": 0,
+      "Case": 3
+    },
+    {
+      "No": 140,
+      "Tahun/Bulan": "2023/5",
+      "Produk": "Realme Realme 10 8/256",
+      "Jumlah": 1,
+      "Harga": 3599000,
+      "Earphone": 1,
+      "Charger": 0,
+      "Case": 1
+    },
+    {
+      "No": 141,
+      "Tahun/Bulan": "2023/5",
+      "Produk": "Infinix Note 12 2023",
+      "Jumlah": 4,
+      "Harga": 2799000,
+      "Earphone": 4,
+      "Charger": 0,
+      "Case": 4
+    },
+    {
+      "No": 142,
+      "Tahun/Bulan": "2023/5",
+      "Produk": "Infinix Hot 20S",
+      "Jumlah": 3,
+      "Harga": 2499000,
+      "Earphone": 2,
+      "Charger": 0,
+      "Case": 0
+    },
+    {
+      "No": 143,
+      "Tahun/Bulan": "2023/5",
+      "Produk": "Infinix Hot 12 Play",
+      "Jumlah": 3,
+      "Harga": 1698000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 0
+    },
+    {
+      "No": 144,
+      "Tahun/Bulan": "2023/5",
+      "Produk": "Infinix Hot 20i",
+      "Jumlah": 2,
+      "Harga": 1499000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 0
+    },
+    {
+      "No": 145,
+      "Tahun/Bulan": "2023/5",
+      "Produk": "Infinix Smart 6",
+      "Jumlah": 2,
+      "Harga": 1199000,
+      "Earphone": 1,
+      "Charger": 0,
+      "Case": 0
+    },
+    {
+      "No": 146,
+      "Tahun/Bulan": "2023/6",
+      "Produk": "Samsung A04 3/32",
+      "Jumlah": 1,
+      "Harga": 1499000,
+      "Earphone": 1,
+      "Charger": 0,
+      "Case": 1
+    },
+    {
+      "No": 147,
+      "Tahun/Bulan": "2023/6",
+      "Produk": "Samsung A04 4/64",
+      "Jumlah": 3,
+      "Harga": 1799000,
+      "Earphone": 1,
+      "Charger": 0,
+      "Case": 0
+    },
+    {
+      "No": 148,
+      "Tahun/Bulan": "2023/6",
+      "Produk": "Samsung A13 4/64",
+      "Jumlah": 1,
+      "Harga": 2199000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 1
+    },
+    {
+      "No": 149,
+      "Tahun/Bulan": "2023/6",
+      "Produk": "Samsung A13 6/128",
+      "Jumlah": 1,
+      "Harga": 2499000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 1
+    },
+    {
+      "No": 150,
+      "Tahun/Bulan": "2023/6",
+      "Produk": "Samsung A14 4/128",
+      "Jumlah": 1,
+      "Harga": 2399000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 1
+    },
+    {
+      "No": 151,
+      "Tahun/Bulan": "2023/6",
+      "Produk": "Samsung A14 6/128",
+      "Jumlah": 3,
+      "Harga": 2699000,
+      "Earphone": 2,
+      "Charger": 0,
+      "Case": 3
+    },
+    {
+      "No": 152,
+      "Tahun/Bulan": "2023/6",
+      "Produk": "Samsung A14 5G",
+      "Jumlah": 2,
+      "Harga": 2899000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 2
+    },
+    {
+      "No": 153,
+      "Tahun/Bulan": "2023/6",
+      "Produk": "Samsung A23 6/128",
+      "Jumlah": 2,
+      "Harga": 3299000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 2
+    },
+    {
+      "No": 154,
+      "Tahun/Bulan": "2023/6",
+      "Produk": "Samsung A23 5G",
+      "Jumlah": 3,
+      "Harga": 3999000,
+      "Earphone": 3,
+      "Charger": 0,
+      "Case": 3
+    },
+    {
+      "No": 155,
+      "Tahun/Bulan": "2023/6",
+      "Produk": "Samsung A34 5G 8/128",
+      "Jumlah": 1,
+      "Harga": 4999000,
+      "Earphone": 1,
+      "Charger": 1,
+      "Case": 1
+    },
+    {
+      "No": 156,
+      "Tahun/Bulan": "2023/6",
+      "Produk": "Samsung A34 5G 8/256",
+      "Jumlah": 2,
+      "Harga": 5399000,
+      "Earphone": 1,
+      "Charger": 2,
+      "Case": 2
+    },
+    {
+      "No": 157,
+      "Tahun/Bulan": "2023/6",
+      "Produk": "Samsung A54 5G 8/128",
+      "Jumlah": 3,
+      "Harga": 5999000,
+      "Earphone": 3,
+      "Charger": 3,
+      "Case": 3
+    },
+    {
+      "No": 158,
+      "Tahun/Bulan": "2023/6",
+      "Produk": "Samsung A54 5G 8/256",
+      "Jumlah": 2,
+      "Harga": 6399000,
+      "Earphone": 0,
+      "Charger": 2,
+      "Case": 2
+    },
+    {
+      "No": 159,
+      "Tahun/Bulan": "2023/6",
+      "Produk": "Vivo Y02",
+      "Jumlah": 3,
+      "Harga": 1499000,
+      "Earphone": 1,
+      "Charger": 0,
+      "Case": 3
+    },
+    {
+      "No": 160,
+      "Tahun/Bulan": "2023/6",
+      "Produk": "Vivo Y15S",
+      "Jumlah": 1,
+      "Harga": 1899000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 1
+    },
+    {
+      "No": 161,
+      "Tahun/Bulan": "2023/6",
+      "Produk": "Vivo Y21 4/64",
+      "Jumlah": 1,
+      "Harga": 2099000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 1
+    },
+    {
+      "No": 162,
+      "Tahun/Bulan": "2023/6",
+      "Produk": "Vivo Y21S 4/128",
+      "Jumlah": 2,
+      "Harga": 1945000,
+      "Earphone": 1,
+      "Charger": 0,
+      "Case": 2
+    },
+    {
+      "No": 163,
+      "Tahun/Bulan": "2023/6",
+      "Produk": "Vivo Y22",
+      "Jumlah": 1,
+      "Harga": 1399000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 1
+    },
+    {
+      "No": 164,
+      "Tahun/Bulan": "2023/6",
+      "Produk": "Vivo Y35 8/128",
+      "Jumlah": 4,
+      "Harga": 3399000,
+      "Earphone": 3,
+      "Charger": 0,
+      "Case": 4
+    },
+    {
+      "No": 165,
+      "Tahun/Bulan": "2023/6",
+      "Produk": "Vivo V25E 8/128",
+      "Jumlah": 2,
+      "Harga": 3999000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 2
+    },
+    {
+      "No": 166,
+      "Tahun/Bulan": "2023/6",
+      "Produk": "Vivo V27 5G",
+      "Jumlah": 4,
+      "Harga": 5999000,
+      "Earphone": 4,
+      "Charger": 0,
+      "Case": 3
+    },
+    {
+      "No": 167,
+      "Tahun/Bulan": "2023/6",
+      "Produk": "Vivo V27E",
+      "Jumlah": 4,
+      "Harga": 4299000,
+      "Earphone": 2,
+      "Charger": 0,
+      "Case": 4
+    },
+    {
+      "No": 168,
+      "Tahun/Bulan": "2023/6",
+      "Produk": "Oppo A16E 3/32",
+      "Jumlah": 1,
+      "Harga": 1499000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 1
+    },
+    {
+      "No": 169,
+      "Tahun/Bulan": "2023/6",
+      "Produk": "Oppo A16K 4/64",
+      "Jumlah": 3,
+      "Harga": 2199000,
+      "Earphone": 2,
+      "Charger": 0,
+      "Case": 3
+    },
+    {
+      "No": 170,
+      "Tahun/Bulan": "2023/6",
+      "Produk": "Oppo A17 4/64",
+      "Jumlah": 2,
+      "Harga": 2099000,
+      "Earphone": 1,
+      "Charger": 0,
+      "Case": 2
+    },
+    {
+      "No": 171,
+      "Tahun/Bulan": "2023/6",
+      "Produk": "Oppo A53",
+      "Jumlah": 5,
+      "Harga": 2499000,
+      "Earphone": 5,
+      "Charger": 0,
+      "Case": 5
+    },
+    {
+      "No": 172,
+      "Tahun/Bulan": "2023/6",
+      "Produk": "Oppo A77S",
+      "Jumlah": 2,
+      "Harga": 3499000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 2
+    },
+    {
+      "No": 173,
+      "Tahun/Bulan": "2023/6",
+      "Produk": "Oppo A96",
+      "Jumlah": 2,
+      "Harga": 4299000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 2
+    },
+    {
+      "No": 174,
+      "Tahun/Bulan": "2023/6",
+      "Produk": "Xiaomi Redmi A1 3/32",
+      "Jumlah": 2,
+      "Harga": 1149000,
+      "Earphone": 1,
+      "Charger": 0,
+      "Case": 2
+    },
+    {
+      "No": 175,
+      "Tahun/Bulan": "2023/6",
+      "Produk": "Xiaomi Redmi 9A 3/32",
+      "Jumlah": 1,
+      "Harga": 1249000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 1
+    },
+    {
+      "No": 176,
+      "Tahun/Bulan": "2023/6",
+      "Produk": "Xiaomi Redmi 10A 3/32",
+      "Jumlah": 1,
+      "Harga": 1369000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 1
+    },
+    {
+      "No": 177,
+      "Tahun/Bulan": "2023/6",
+      "Produk": "Xiaomi Redmi 10A 4/64",
+      "Jumlah": 3,
+      "Harga": 1699000,
+      "Earphone": 2,
+      "Charger": 0,
+      "Case": 3
+    },
+    {
+      "No": 178,
+      "Tahun/Bulan": "2023/6",
+      "Produk": "Xiaomi Redmi 10C 4/64",
+      "Jumlah": 2,
+      "Harga": 1769000,
+      "Earphone": 1,
+      "Charger": 0,
+      "Case": 2
+    },
+    {
+      "No": 179,
+      "Tahun/Bulan": "2023/6",
+      "Produk": "Xiaomi Redmi 10C 4/128",
+      "Jumlah": 2,
+      "Harga": 1969000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 2
+    },
+    {
+      "No": 180,
+      "Tahun/Bulan": "2023/6",
+      "Produk": "Xiaomi Redmi Note 11 4/128",
+      "Jumlah": 4,
+      "Harga": 2349000,
+      "Earphone": 4,
+      "Charger": 0,
+      "Case": 4
+    },
+    {
+      "No": 181,
+      "Tahun/Bulan": "2023/6",
+      "Produk": "Xiaomi Redmi Note 10 5G 4/128",
+      "Jumlah": 4,
+      "Harga": 2499000,
+      "Earphone": 4,
+      "Charger": 0,
+      "Case": 4
+    },
+    {
+      "No": 182,
+      "Tahun/Bulan": "2023/6",
+      "Produk": "Xiaomi Redmi Note 11 6/128",
+      "Jumlah": 3,
+      "Harga": 2649000,
+      "Earphone": 2,
+      "Charger": 0,
+      "Case": 3
+    },
+    {
+      "No": 183,
+      "Tahun/Bulan": "2023/6",
+      "Produk": "Xiaomi Redmi A2 3/64",
+      "Jumlah": 1,
+      "Harga": 1249000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 1
+    },
+    {
+      "No": 184,
+      "Tahun/Bulan": "2023/6",
+      "Produk": "Xiaomi Redmi 12C 4/64",
+      "Jumlah": 2,
+      "Harga": 1599000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 2
+    },
+    {
+      "No": 185,
+      "Tahun/Bulan": "2023/6",
+      "Produk": "Xiaomi Redmi 12C 4/128",
+      "Jumlah": 3,
+      "Harga": 1799000,
+      "Earphone": 1,
+      "Charger": 0,
+      "Case": 3
+    },
+    {
+      "No": 186,
+      "Tahun/Bulan": "2023/6",
+      "Produk": "Xiaomi Redmi Note 12 8/128",
+      "Jumlah": 3,
+      "Harga": 2999000,
+      "Earphone": 2,
+      "Charger": 0,
+      "Case": 3
+    },
+    {
+      "No": 187,
+      "Tahun/Bulan": "2023/6",
+      "Produk": "Xiaomi Redmi Note 12 Pro 5G 8/256",
+      "Jumlah": 6,
+      "Harga": 4599000,
+      "Earphone": 6,
+      "Charger": 0,
+      "Case": 6
+    },
+    {
+      "No": 188,
+      "Tahun/Bulan": "2023/6",
+      "Produk": "Realme C30",
+      "Jumlah": 1,
+      "Harga": 1199000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 1
+    },
+    {
+      "No": 189,
+      "Tahun/Bulan": "2023/6",
+      "Produk": "Realme C30S 3/32",
+      "Jumlah": 1,
+      "Harga": 1399000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 1
+    },
+    {
+      "No": 190,
+      "Tahun/Bulan": "2023/6",
+      "Produk": "Realme C30S 4/64",
+      "Jumlah": 2,
+      "Harga": 1599000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 2
+    },
+    {
+      "No": 191,
+      "Tahun/Bulan": "2023/6",
+      "Produk": "Realme C25Y",
+      "Jumlah": 2,
+      "Harga": 2099000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 2
+    },
+    {
+      "No": 192,
+      "Tahun/Bulan": "2023/6",
+      "Produk": "Realme C35",
+      "Jumlah": 4,
+      "Harga": 2499000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 4
+    },
+    {
+      "No": 193,
+      "Tahun/Bulan": "2023/6",
+      "Produk": "Realme C55 6/128",
+      "Jumlah": 4,
+      "Harga": 2499000,
+      "Earphone": 2,
+      "Charger": 0,
+      "Case": 4
+    },
+    {
+      "No": 194,
+      "Tahun/Bulan": "2023/6",
+      "Produk": "Realme Realme 10 8/128",
+      "Jumlah": 1,
+      "Harga": 3199000,
+      "Earphone": 1,
+      "Charger": 0,
+      "Case": 1
+    },
+    {
+      "No": 195,
+      "Tahun/Bulan": "2023/6",
+      "Produk": "Realme Realme 10 8/256",
+      "Jumlah": 3,
+      "Harga": 3599000,
+      "Earphone": 1,
+      "Charger": 0,
+      "Case": 3
+    },
+    {
+      "No": 196,
+      "Tahun/Bulan": "2023/6",
+      "Produk": "Infinix Note 12 2023",
+      "Jumlah": 1,
+      "Harga": 2799000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 1
+    },
+    {
+      "No": 197,
+      "Tahun/Bulan": "2023/6",
+      "Produk": "Infinix Hot 20S",
+      "Jumlah": 1,
+      "Harga": 2499000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 0
+    },
+    {
+      "No": 198,
+      "Tahun/Bulan": "2023/6",
+      "Produk": "Infinix Hot 12 Play",
+      "Jumlah": 2,
+      "Harga": 1698000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 0
+    },
+    {
+      "No": 199,
+      "Tahun/Bulan": "2023/6",
+      "Produk": "Infinix Hot 20i",
+      "Jumlah": 4,
+      "Harga": 1399000,
+      "Earphone": 1,
+      "Charger": 0,
+      "Case": 0
+    },
+    {
+      "No": 200,
+      "Tahun/Bulan": "2023/6",
+      "Produk": "Infinix Smart 7",
+      "Jumlah": 4,
+      "Harga": 1199000,
+      "Earphone": 2,
+      "Charger": 0,
+      "Case": 0
+    },
+    {
+      "No": 201,
+      "Tahun/Bulan": "2023/6",
+      "Produk": "Infinix Hot 30i",
+      "Jumlah": 2,
+      "Harga": 1499000,
+      "Earphone": 0,
+      "Charger": 0,
+      "Case": 0
+    },
+    {
+      "No": 202,
+      "Tahun/Bulan": "2023/6",
+      "Produk": "Infinix Hot 20 5G",
+      "Jumlah": 1,
+      "Harga": 2599000,
+      "Earphone": 1,
+      "Charger": 0,
+      "Case": 0
+    },
+    {
+      "No": 203,
+      "Tahun/Bulan": "2023/6",
+      "Produk": "Infinix Note 30 ",
+      "Jumlah": 7,
+      "Harga": 2499000,
+      "Earphone": 5,
+      "Charger": 0,
+      "Case": 0
+    },
+    {
+      "No": 204,
+      "Tahun/Bulan": "2023/6",
+      "Produk": "Infinix Zero 5G",
+      "Jumlah": 4,
+      "Harga": 3699000,
+      "Earphone": 4,
+      "Charger": 0,
+      "Case": 0
+    }
+  ]
+}
